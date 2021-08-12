@@ -1,0 +1,24 @@
+Account number: 1000
+First name: Harsh
+Last name: Shah
+Balance: 5000
+Account number: 1001
+First name: Jill
+Last name: Chaudhary
+Balance: 6000
+Account number: 1002
+First name: shivam
+Last name: shrama
+Balance: 5000
+Account number: 1003
+First name: jill
+Last name: cha
+Balance: 5000
+Account number: 1004
+First name: harsh
+Last name: shah
+Balance: 6000
+Account number: 1005
+First name: ll
+Last name: ll
+Balance: 5555
